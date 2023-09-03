@@ -6,7 +6,7 @@ void main() {
 
   var cust = Customer();
   var product = Product();
-  var category = Category()
+  var category = Category();
 
 
 }
